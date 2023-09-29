@@ -1,0 +1,16 @@
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\TestarTuring.exe
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\TestarTuring.deps.json
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\TestarTuring.runtimeconfig.json
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\TestarTuring.runtimeconfig.dev.json
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\TestarTuring.dll
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\ref\TestarTuring.dll
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\bin\Debug\net5.0\TestarTuring.pdb
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.csproj.AssemblyReference.cache
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.AssemblyInfoInputs.cache
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.AssemblyInfo.cs
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.csproj.CoreCompileInputs.cache
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.dll
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\ref\TestarTuring.dll
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.pdb
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\TestarTuring\TestarTuring\obj\Debug\net5.0\TestarTuring.genruntimeconfig.cache

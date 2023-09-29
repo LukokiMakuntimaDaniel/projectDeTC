@@ -1,0 +1,10 @@
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.csproj.AssemblyReference.cache
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.Form1.resources
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.Properties.Resources.resources
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.csproj.GenerateResource.cache
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.csproj.CoreCompileInputs.cache
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\bin\Debug\MaquinaDeTuring.exe.config
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\bin\Debug\MaquinaDeTuring.exe
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\bin\Debug\MaquinaDeTuring.pdb
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.exe
+C:\Users\Lukoki Daniel\Documents\ProjectoDeTC\MaquinaDeTuring\MaquinaDeTuring\obj\Debug\MaquinaDeTuring.pdb

@@ -1,0 +1,10 @@
+B000000B
+0 1
+0 1 B
+q0 B D q1
+q1 0 1 q1
+q1 1 D q1
+q1 B E q2
+q2 1 0 q2
+q2 0 E q2
+q2 B B q0

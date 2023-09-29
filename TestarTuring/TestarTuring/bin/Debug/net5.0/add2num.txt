@@ -1,0 +1,8 @@
+1111111111S1111B
+0 1
+0 1 B S F
+q0 1 D q0
+q0 S 1 q1
+q1 1 D q1
+q1 B E q2
+q2 1 B qAceite
